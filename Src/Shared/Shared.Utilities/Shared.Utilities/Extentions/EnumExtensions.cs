@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Shared.Utilities.DateTimes;;
+namespace Shared.Utilities.DateTimes;
 public static class EnumExtensions
 {
     /// <summary>

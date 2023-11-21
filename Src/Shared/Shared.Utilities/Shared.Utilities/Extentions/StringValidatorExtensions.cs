@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Shared.Utilities.DateTimes;;
+namespace Shared.Utilities.DateTimes;
 
 public static class StringValidatorExtensions
 {
